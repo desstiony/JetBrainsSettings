@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Using the Ctrl+A shortcut for Vim emulation. You can redefine it as an IDE shortcut or configure its handler in Vim Emulation settings." />
+      <item value="To open any particular method or field in the editor quickly" />
+      <item value="You can use the Extract Variable refactoring even on incomplete statements. Just press Ctrl+Alt+V, and choose the desired expression" />
+      <item value="When you invoke the Move refactoring (F6) on a nested class that is declared static, you are provided with an option to either make it a top-level class, or move it to another class." />
+      <item value="To quickly evaluate the value of any expression while debugging the program, hold Alt (Control+Alt+Shift on Linux) and click this expression to see its value and calculate it, call a method, etc." />
+      <item value="child process terminated due to receipt of signal" />
+      <item value="Dock" />
+      <item value="Trajectories" />
+      <item value="Docking" />
+      <item value="instance" />
+      <item value="constructor" />
+      <item value="aggregator" />
+      <item value="diagnostic" />
+      <item value=" scan" />
+      <item value="advertise" />
+      <item value="emit" />
+      <item value="feedback" />
+      <item value="setup a listener for the robot pose" />
+      <item value="modifiers" />
+      <item value="Container" />
+      <item value="Shape" />
+      <item value="create an empty shape to start with, so that the order remains correct" />
+      <item value="current grid that is displayed" />
+      <item value="A Viewer can be used to render an interactive 2D scene to a HTML5 canvas" />
+      <item value="create the canvas to render to" />
+      <item value="to" />
+      <item value="create the easel to use" />
+      <item value="easel" />
+      <item value="change Y axis center" />
+      <item value="scene" />
+      <item value="case of continuous" />
+      <item value="position" />
+      <item value="Shift the main view of the canvas by the given amount. This is based on the * ROS coordinate system. That is, Y is opposite that of a traditional canvas." />
+      <item value="Scale the scene to fit the given width and height into the current canvas" />
+      <item value="navigator" />
+      <item value="scale the viewer to fit the map" />
+      <item value="coords" />
+      <item value="pulse" />
+      <item value="fals" />
+      <item value="remove obsolete orientation marker" />
+      <item value="get position when mouse button is pressed down" />
+      <item value="Base speed control using the keyboard or mouse" />
+      <item value="Shift the main view of the canvas by the given amount. This is based on the * ROS coordinate system. That is, Y is opposite that of a traditional canvas" />
+      <item value="create a marker for the goal" />
+      <item value="set pose with orientation" />
+      <item value="calulate direction between stored &lt;position&gt; and goal position" />
+      <item value="get current mouse position (goalPos)" />
+      <item value="if mouse button is released" />
+      <item value="place orientation marker" />
+      <item value="calulate direction between stored &lt;position&gt; and current position" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="101" />
+        <entry key="ROMANIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

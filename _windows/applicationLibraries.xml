@@ -1,0 +1,37 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.6 (release-master) interpreter library">
+      <CLASSES>
+        <root url="file://D:/Program Files/Python/Python36/DLLs" />
+        <root url="file://D:/Program Files/Python/Python36/Lib" />
+        <root url="file://D:/Program Files/Python/Python36" />
+        <root url="file://D:/develop/workSpaces/github_opensource_project/release-master/venv" />
+        <root url="file://D:/develop/workSpaces/github_opensource_project/release-master/venv/Lib/site-packages" />
+        <root url="jar://D:/develop/workSpaces/github_opensource_project/release-master/venv/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" />
+        <root url="file://D:/develop/workSpaces/github_opensource_project/release-master/venv/Lib/site-packages/pip-19.0.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/1913241225" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Program Files/Python/Python36/DLLs" />
+        <root url="file://D:/Program Files/Python/Python36/Lib" />
+        <root url="file://D:/Program Files/Python/Python36" />
+        <root url="file://D:/develop/workSpaces/github_opensource_project/release-master/venv" />
+        <root url="file://D:/develop/workSpaces/github_opensource_project/release-master/venv/Lib/site-packages" />
+        <root url="jar://D:/develop/workSpaces/github_opensource_project/release-master/venv/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" />
+        <root url="file://D:/develop/workSpaces/github_opensource_project/release-master/venv/Lib/site-packages/pip-19.0.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/1913241225" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
