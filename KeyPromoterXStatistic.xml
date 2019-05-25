@@ -78,7 +78,7 @@
           <IdeaActionID>FileChooser.GotoDesktop</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Desktop Directory</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -118,7 +118,7 @@
           <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
           <ShortCut>'Ctrl+1'</ShortCut>
           <Description>Home Directory</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -183,14 +183,6 @@
           <ShortCut>'Ctrl+Shift+V' or 'Ctrl+Shift+Insert'</ShortCut>
           <Description>Paste from History...</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Project Structure...">
-        <Item>
-          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
-          <Description>Project Structure...</Description>
-          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -567,6 +559,14 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
