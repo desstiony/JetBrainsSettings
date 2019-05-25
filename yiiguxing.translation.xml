@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The name of the path variable to bind to." />
       <item value="Using the Ctrl+A shortcut for Vim emulation. You can redefine it as an IDE shortcut or configure its handler in Vim Emulation settings." />
       <item value="To open any particular method or field in the editor quickly" />
       <item value="You can use the Extract Variable refactoring even on incomplete statements. Just press Ctrl+Alt+V, and choose the desired expression" />
@@ -50,12 +51,11 @@
       <item value="get current mouse position (goalPos)" />
       <item value="if mouse button is released" />
       <item value="place orientation marker" />
-      <item value="calulate direction between stored &lt;position&gt; and current position" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
