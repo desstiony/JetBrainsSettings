@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="granted" />
+      <item value="A granted authority textual representation is required" />
+      <item value="&quot;A granted authority textual representation is required" />
       <item value="authentication" />
       <item value="to allow customization of the DAO * authentication" />
       <item value="Note that additional * {@link UserDetailsService}'s may override this {@link UserDetailsService} as the * default." />
@@ -48,9 +51,6 @@
       <item value="create the easel to use" />
       <item value="easel" />
       <item value="change Y axis center" />
-      <item value="scene" />
-      <item value="case of continuous" />
-      <item value="position" />
     </histories>
     <option name="languageScores">
       <map>
