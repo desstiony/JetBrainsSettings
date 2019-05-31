@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authentication" />
+      <item value="to allow customization of the DAO * authentication" />
+      <item value="Note that additional * {@link UserDetailsService}'s may override this {@link UserDetailsService} as the * default." />
+      <item value="available" />
+      <item value="sure" />
+      <item value="ensure" />
+      <item value="to allow" />
+      <item value="customization of * the authentication." />
+      <item value="Add authentication based upon the custom {@link UserDetailsService} that is passed * in" />
+      <item value="Add authentication based upon the custom" />
+      <item value="memory authenticatio" />
+      <item value="easily" />
+      <item value="Allows" />
+      <item value="Manager" />
+      <item value="Authentication" />
       <item value="attribute" />
       <item value="under" />
       <item value="The name of the path variable to bind to." />
@@ -36,26 +51,11 @@
       <item value="scene" />
       <item value="case of continuous" />
       <item value="position" />
-      <item value="Shift the main view of the canvas by the given amount. This is based on the * ROS coordinate system. That is, Y is opposite that of a traditional canvas." />
-      <item value="Scale the scene to fit the given width and height into the current canvas" />
-      <item value="navigator" />
-      <item value="scale the viewer to fit the map" />
-      <item value="coords" />
-      <item value="pulse" />
-      <item value="fals" />
-      <item value="remove obsolete orientation marker" />
-      <item value="get position when mouse button is pressed down" />
-      <item value="Base speed control using the keyboard or mouse" />
-      <item value="Shift the main view of the canvas by the given amount. This is based on the * ROS coordinate system. That is, Y is opposite that of a traditional canvas" />
-      <item value="create a marker for the goal" />
-      <item value="set pose with orientation" />
-      <item value="calulate direction between stored &lt;position&gt; and goal position" />
-      <item value="get current mouse position (goalPos)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
