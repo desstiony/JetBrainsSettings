@@ -222,7 +222,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace...">
@@ -271,14 +271,6 @@
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ArrayStackTest.arrayStackTest'">
@@ -585,6 +577,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ReadingListApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ReadingListApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SellApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -599,6 +599,14 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main'">
