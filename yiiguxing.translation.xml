@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the username must match the OpenID of the user you are * // logging in with" />
+      <item value="A basic example accepting the defaults and not using attribute exchange" />
+      <item value="scheme" />
+      <item value="memory authentication" />
+      <item value="defines" />
+      <item value="The configuration will * require that any URL that is requested will require a User with the role &quot;ROLE_USER&quot;." />
+      <item value="The most basic form based configuration can be seen below" />
+      <item value="is similar to Spring Security's XML &amp;lt;http&amp;gt; element in the * namespace configuration. It allows configuring web based security for specific http * requests. By default it will be applied to all requests, but can be restricted using * {@link #requestMatcher(RequestMatcher)} or other similar methods." />
       <item value="the expression to secure the URLs" />
       <item value="Allows specifying that URLs are secured by an arbitrary expression" />
       <item value="The configuration below requires * authentication to every URL and will grant access to URLs starting with /admin/ to * only the &quot;admin&quot; user." />
@@ -43,19 +51,11 @@
       <item value=" scan" />
       <item value="advertise" />
       <item value="emit" />
-      <item value="feedback" />
-      <item value="setup a listener for the robot pose" />
-      <item value="modifiers" />
-      <item value="Container" />
-      <item value="Shape" />
-      <item value="create an empty shape to start with, so that the order remains correct" />
-      <item value="current grid that is displayed" />
-      <item value="A Viewer can be used to render an interactive 2D scene to a HTML5 canvas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
