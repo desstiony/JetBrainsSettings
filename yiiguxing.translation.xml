@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the expression to secure the URLs" />
+      <item value="Allows specifying that URLs are secured by an arbitrary expression" />
+      <item value="The configuration below requires * authentication to every URL and will grant access to URLs starting with /admin/ to * only the &quot;admin&quot; user." />
+      <item value="We can also configure multiple URLs. The configuration below requires * authentication to every URL and will grant access to URLs starting with /admin/ to * only the &quot;admin&quot; user. All other URLs either user can access" />
+      <item value="The configuration below requires authentication to every URL and will grant access * to both the user &quot;admin&quot; and &quot;user&quot;." />
       <item value="granted" />
       <item value="A granted authority textual representation is required" />
       <item value="&quot;A granted authority textual representation is required" />
@@ -46,16 +51,11 @@
       <item value="create an empty shape to start with, so that the order remains correct" />
       <item value="current grid that is displayed" />
       <item value="A Viewer can be used to render an interactive 2D scene to a HTML5 canvas" />
-      <item value="create the canvas to render to" />
-      <item value="to" />
-      <item value="create the easel to use" />
-      <item value="easel" />
-      <item value="change Y axis center" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
