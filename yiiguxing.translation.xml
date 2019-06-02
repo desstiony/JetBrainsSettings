@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TEMPLATE ENGINE CONFIGURATION" />
       <item value="Bandwidth Limit Exceeded" />
       <item value="the username must match the OpenID of the user you are * // logging in with" />
       <item value="A basic example accepting the defaults and not using attribute exchange" />
@@ -50,12 +51,11 @@
       <item value="aggregator" />
       <item value="diagnostic" />
       <item value=" scan" />
-      <item value="advertise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
