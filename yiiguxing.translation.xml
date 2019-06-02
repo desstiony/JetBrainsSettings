@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An implementation of {@link WebMvcConfigurer} with empty methods allowing * subclasses to override only the methods they're interested in. *" />
       <item value="TEMPLATE ENGINE CONFIGURATION" />
       <item value="Bandwidth Limit Exceeded" />
       <item value="the username must match the OpenID of the user you are * // logging in with" />
@@ -50,12 +51,11 @@
       <item value="constructor" />
       <item value="aggregator" />
       <item value="diagnostic" />
-      <item value=" scan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
