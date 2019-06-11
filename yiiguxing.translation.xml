@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CAPTCHA" />
       <item value="Draws a line, using the current color, between the points * &lt;code&gt;(x1,&amp;nbsp;y1)&lt;/code&gt; and &lt;code&gt;(x2,&amp;nbsp;y2)&lt;/code&gt; * in this graphics context's coordinate system." />
       <item value="Draws a line, using the current color, between the points" />
       <item value="proxy" />
@@ -50,12 +51,11 @@
       <item value="Dock" />
       <item value="Trajectories" />
       <item value="Docking" />
-      <item value="instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
