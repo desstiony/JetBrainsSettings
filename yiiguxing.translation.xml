@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The rectangle is filled using the graphics context's current color" />
+      <item value="the width of the rectangle to be filled" />
+      <item value="coordinate * of the rectangle to be filled." />
+      <item value="Fills the specified rectangle. * The left and right edges of the rectangle are at" />
+      <item value="a &lt;code&gt;Graphics2D&lt;/code&gt;, which can be used to draw into * this image." />
+      <item value="This method returns a {@link Graphics2D}, but is here * for backwards compatibility. {@link #createGraphics() createGraphics} is more * convenient, since it is declared to return a" />
       <item value="CAPTCHA" />
       <item value="Draws a line, using the current color, between the points * &lt;code&gt;(x1,&amp;nbsp;y1)&lt;/code&gt; and &lt;code&gt;(x2,&amp;nbsp;y2)&lt;/code&gt; * in this graphics context's coordinate system." />
       <item value="Draws a line, using the current color, between the points" />
@@ -45,17 +51,11 @@
       <item value="Using the Ctrl+A shortcut for Vim emulation. You can redefine it as an IDE shortcut or configure its handler in Vim Emulation settings." />
       <item value="To open any particular method or field in the editor quickly" />
       <item value="You can use the Extract Variable refactoring even on incomplete statements. Just press Ctrl+Alt+V, and choose the desired expression" />
-      <item value="When you invoke the Move refactoring (F6) on a nested class that is declared static, you are provided with an option to either make it a top-level class, or move it to another class." />
-      <item value="To quickly evaluate the value of any expression while debugging the program, hold Alt (Control+Alt+Shift on Linux) and click this expression to see its value and calculate it, call a method, etc." />
-      <item value="child process terminated due to receipt of signal" />
-      <item value="Dock" />
-      <item value="Trajectories" />
-      <item value="Docking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
