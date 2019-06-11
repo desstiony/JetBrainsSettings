@@ -57,14 +57,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'Alt+5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'ArrayStackTest.arrayStackTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -531,6 +523,14 @@
           <Description>Database</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'OrderServiceImplTest.cancel'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -569,6 +569,12 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'YntCmsApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'YntCmsApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <Description>Debug with JRebel 'YntCmsApplication'</Description>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">

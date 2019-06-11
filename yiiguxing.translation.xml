@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Draws a line, using the current color, between the points * &lt;code&gt;(x1,&amp;nbsp;y1)&lt;/code&gt; and &lt;code&gt;(x2,&amp;nbsp;y2)&lt;/code&gt; * in this graphics context's coordinate system." />
+      <item value="Draws a line, using the current color, between the points" />
       <item value="proxy" />
       <item value="An implementation of {@link WebMvcConfigurer} with empty methods allowing * subclasses to override only the methods they're interested in. *" />
       <item value="TEMPLATE ENGINE CONFIGURATION" />
@@ -49,13 +51,11 @@
       <item value="Trajectories" />
       <item value="Docking" />
       <item value="instance" />
-      <item value="constructor" />
-      <item value="aggregator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
