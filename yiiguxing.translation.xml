@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Checks if a CharSequence is empty (&quot;&quot;) or null" />
+      <item value="Compare two paths after normalization of them" />
+      <item value="Normalize the path by suppressing sequences like &quot;path/..&quot; and * inner simple dots." />
       <item value="A method reference to the exception constructor with an empty * argument list can be used as the supplier. For example," />
       <item value="Return the contained value, if present, otherwise throw an exception * to be created by the provided supplier." />
       <item value="captcha" />
@@ -48,14 +51,11 @@
       <item value="Allows" />
       <item value="Manager" />
       <item value="Authentication" />
-      <item value="attribute" />
-      <item value="under" />
-      <item value="The name of the path variable to bind to." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
