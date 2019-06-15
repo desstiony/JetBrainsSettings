@@ -869,6 +869,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Update 'YntCmsApplication' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update 'YntCmsApplication' application</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Update Project...">
         <Item>
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
