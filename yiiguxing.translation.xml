@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="If you need more workspace, you can hide the tool windows bars: click in the lower left corner. If necessary, you can show the tool window buttons just for a moment. To do that, press the key Alt (for Windows/*nix) or Command (for Mac) twice and keep it down. While the key is pressed, the tool window buttons are visible." />
       <item value="If you need more workspace, you can hide the tool windows bars: click in the lower left corner.&#10;If necessary, you can show the tool window buttons just for a moment. To do that, press the key Alt (for Windows/*nix) or Command (for Mac) twice and keep it down. While the key is pressed, the tool window buttons are visible." />
       <item value="To compare two directories, select one or both of them in the Project view and press Ctrl+D." />
@@ -50,12 +51,11 @@
       <item value="to allow" />
       <item value="customization of * the authentication." />
       <item value="Add authentication based upon the custom {@link UserDetailsService} that is passed * in" />
-      <item value="Add authentication based upon the custom" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
