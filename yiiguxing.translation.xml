@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not parse as expression:" />
+      <item value="parsing" />
+      <item value="happened during" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="If you need more workspace, you can hide the tool windows bars: click in the lower left corner. If necessary, you can show the tool window buttons just for a moment. To do that, press the key Alt (for Windows/*nix) or Command (for Mac) twice and keep it down. While the key is pressed, the tool window buttons are visible." />
       <item value="If you need more workspace, you can hide the tool windows bars: click in the lower left corner.&#10;If necessary, you can show the tool window buttons just for a moment. To do that, press the key Alt (for Windows/*nix) or Command (for Mac) twice and keep it down. While the key is pressed, the tool window buttons are visible." />
@@ -48,14 +51,11 @@
       <item value="available" />
       <item value="sure" />
       <item value="ensure" />
-      <item value="to allow" />
-      <item value="customization of * the authentication." />
-      <item value="Add authentication based upon the custom {@link UserDetailsService} that is passed * in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
