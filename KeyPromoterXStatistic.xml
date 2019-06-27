@@ -201,14 +201,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="New Watch...">
-        <Item>
-          <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
-          <ShortCut>'Insert'</ShortCut>
-          <Description>New Watch...</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -709,6 +701,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Watch...">
+        <Item>
+          <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
+          <ShortCut>'Insert'</ShortCut>
+          <Description>New Watch...</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
