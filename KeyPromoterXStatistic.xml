@@ -105,6 +105,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Duplicate Watch">
+        <Item>
+          <IdeaActionID>XDebugger.CopyWatch</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Duplicate Watch</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Exclude">
         <Item>
           <IdeaActionID>Maven.Uml.Exclude</IdeaActionID>
@@ -254,6 +262,14 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Watch">
+        <Item>
+          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Watch</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
