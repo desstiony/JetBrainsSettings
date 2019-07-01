@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digest" />
+      <item value="Thumbnail" />
+      <item value="缩略图" />
+      <item value="litimg" />
+      <item value="thumb" />
+      <item value="content" />
       <item value="Tune the IntelliJ IDEA tool windows layout to make better use of your screen.&#10;Toggle between the vertical and side-by-side placement of the tool windows by Ctrl+Click/Cmd+Click on the splitter" />
       <item value="You can drag an external file from the Explorer or Finder, and drop it onto the Favorites tool window." />
       <item value="The field upfile exceeds its maximum permitted size of 1048576 bytes" />
@@ -45,17 +51,11 @@
       <item value="The most basic form based configuration can be seen below" />
       <item value="is similar to Spring Security's XML &amp;lt;http&amp;gt; element in the * namespace configuration. It allows configuring web based security for specific http * requests. By default it will be applied to all requests, but can be restricted using * {@link #requestMatcher(RequestMatcher)} or other similar methods." />
       <item value="the expression to secure the URLs" />
-      <item value="Allows specifying that URLs are secured by an arbitrary expression" />
-      <item value="The configuration below requires * authentication to every URL and will grant access to URLs starting with /admin/ to * only the &quot;admin&quot; user." />
-      <item value="We can also configure multiple URLs. The configuration below requires * authentication to every URL and will grant access to URLs starting with /admin/ to * only the &quot;admin&quot; user. All other URLs either user can access" />
-      <item value="The configuration below requires authentication to every URL and will grant access * to both the user &quot;admin&quot; and &quot;user&quot;." />
-      <item value="granted" />
-      <item value="A granted authority textual representation is required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
