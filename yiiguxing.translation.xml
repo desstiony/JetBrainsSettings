@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tune the IntelliJ IDEA tool windows layout to make better use of your screen.&#10;Toggle between the vertical and side-by-side placement of the tool windows by Ctrl+Click/Cmd+Click on the splitter" />
+      <item value="You can drag an external file from the Explorer or Finder, and drop it onto the Favorites tool window." />
       <item value="The field upfile exceeds its maximum permitted size of 1048576 bytes" />
       <item value="The last occurrence of the empty string &quot;&quot; * is considered to occur at the index value" />
       <item value="Returns the index within this string of the last occurrence of the * specified substring" />
@@ -49,12 +51,10 @@
       <item value="The configuration below requires authentication to every URL and will grant access * to both the user &quot;admin&quot; and &quot;user&quot;." />
       <item value="granted" />
       <item value="A granted authority textual representation is required" />
-      <item value="&quot;A granted authority textual representation is required" />
-      <item value="authentication" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
+        <entry key="CHINESE" value="160" />
         <entry key="ENGLISH" value="160" />
         <entry key="ROMANIAN" value="1" />
       </map>
