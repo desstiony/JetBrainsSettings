@@ -89,6 +89,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'NewsServiceImplTest.findNewsDetail'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'NewsServiceImplTest.findNewsDetail'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'server.js'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -510,7 +518,7 @@
           <IdeaActionID>GotoTest</IdeaActionID>
           <ShortCut>'Ctrl+Shift+T'</ShortCut>
           <Description>Test</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
