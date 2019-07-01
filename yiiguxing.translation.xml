@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Direction" />
       <item value="digest" />
       <item value="Thumbnail" />
       <item value="缩略图" />
@@ -50,12 +51,11 @@
       <item value="The configuration will * require that any URL that is requested will require a User with the role &quot;ROLE_USER&quot;." />
       <item value="The most basic form based configuration can be seen below" />
       <item value="is similar to Spring Security's XML &amp;lt;http&amp;gt; element in the * namespace configuration. It allows configuring web based security for specific http * requests. By default it will be applied to all requests, but can be restricted using * {@link #requestMatcher(RequestMatcher)} or other similar methods." />
-      <item value="the expression to secure the URLs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
