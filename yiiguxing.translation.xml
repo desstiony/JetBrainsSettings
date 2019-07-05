@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal" />
+      <item value="nested exception" />
+      <item value="nested" />
       <item value="This inspection performs unresolved SQL references check." />
       <item value="Latest compiled and minified" />
       <item value="during" />
@@ -48,14 +51,11 @@
       <item value="An implementation of {@link WebMvcConfigurer} with empty methods allowing * subclasses to override only the methods they're interested in. *" />
       <item value="TEMPLATE ENGINE CONFIGURATION" />
       <item value="Bandwidth Limit Exceeded" />
-      <item value="the username must match the OpenID of the user you are * // logging in with" />
-      <item value="A basic example accepting the defaults and not using attribute exchange" />
-      <item value="scheme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
