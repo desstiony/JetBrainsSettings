@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Validation failed for query for method public abstract" />
       <item value="Creates a new {@link PageRequest} with sort direction and properties applied." />
       <item value="properties" />
       <item value="Illegal" />
@@ -50,12 +51,11 @@
       <item value="Draws a line, using the current color, between the points * &lt;code&gt;(x1,&amp;nbsp;y1)&lt;/code&gt; and &lt;code&gt;(x2,&amp;nbsp;y2)&lt;/code&gt; * in this graphics context's coordinate system." />
       <item value="Draws a line, using the current color, between the points" />
       <item value="proxy" />
-      <item value="An implementation of {@link WebMvcConfigurer} with empty methods allowing * subclasses to override only the methods they're interested in. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
