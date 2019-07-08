@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No fragment found for method" />
       <item value="fragment" />
       <item value="No converter found capable of converting from" />
       <item value="Converter Not Found" />
@@ -50,12 +51,11 @@
       <item value="The rectangle is filled using the graphics context's current color" />
       <item value="the width of the rectangle to be filled" />
       <item value="coordinate * of the rectangle to be filled." />
-      <item value="Fills the specified rectangle. * The left and right edges of the rectangle are at" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
