@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No property create found for type News" />
       <item value="No fragment found for method" />
       <item value="fragment" />
       <item value="No converter found capable of converting from" />
@@ -50,7 +51,6 @@
       <item value="captcha" />
       <item value="The rectangle is filled using the graphics context's current color" />
       <item value="the width of the rectangle to be filled" />
-      <item value="coordinate * of the rectangle to be filled." />
     </histories>
     <option name="languageScores">
       <map>
