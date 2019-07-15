@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a sequential ordered {@code IntStream} from {@code startInclusive} * (inclusive) to {@code endInclusive} (inclusive) by an incremental step of * {@code 1}." />
       <item value="No property create found for type News" />
       <item value="No fragment found for method" />
       <item value="fragment" />
@@ -50,7 +51,6 @@
       <item value="Return the contained value, if present, otherwise throw an exception * to be created by the provided supplier." />
       <item value="captcha" />
       <item value="The rectangle is filled using the graphics context's current color" />
-      <item value="the width of the rectangle to be filled" />
     </histories>
     <option name="languageScores">
       <map>
