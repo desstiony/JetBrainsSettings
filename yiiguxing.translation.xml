@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You have to login before accessing admin api" />
+      <item value="Exception caused by bad request." />
+      <item value="If the password is mismatch" />
+      <item value="Authenticates" />
+      <item value="Check if the current is logging in" />
+      <item value="Clears authentication" />
+      <item value="Category" />
       <item value="Custom serializer for Page object" />
       <item value="Exception handler of controller." />
       <item value="ontroller advice for comment result" />
@@ -44,18 +51,11 @@
       <item value="The last occurrence of the empty string &quot;&quot; * is considered to occur at the index value" />
       <item value="Returns the index within this string of the last occurrence of the * specified substring" />
       <item value="real" />
-      <item value="后缀" />
-      <item value="Could not parse as expression:" />
-      <item value="happened during" />
-      <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
-      <item value="If you need more workspace, you can hide the tool windows bars: click in the lower left corner. If necessary, you can show the tool window buttons just for a moment. To do that, press the key Alt (for Windows/*nix) or Command (for Mac) twice and keep it down. While the key is pressed, the tool window buttons are visible." />
-      <item value="If you need more workspace, you can hide the tool windows bars: click in the lower left corner.&#10;If necessary, you can show the tool window buttons just for a moment. To do that, press the key Alt (for Windows/*nix) or Command (for Mac) twice and keep it down. While the key is pressed, the tool window buttons are visible." />
-      <item value="To compare two directories, select one or both of them in the Project view and press Ctrl+D." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
