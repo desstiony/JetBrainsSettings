@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attachment entity" />
+      <item value="Converter interface for input DTO" />
       <item value="You have to login before accessing admin api" />
       <item value="Exception caused by bad request." />
       <item value="If the password is mismatch" />
@@ -49,13 +51,11 @@
       <item value="You can drag an external file from the Explorer or Finder, and drop it onto the Favorites tool window." />
       <item value="The field upfile exceeds its maximum permitted size of 1048576 bytes" />
       <item value="The last occurrence of the empty string &quot;&quot; * is considered to occur at the index value" />
-      <item value="Returns the index within this string of the last occurrence of the * specified substring" />
-      <item value="real" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
