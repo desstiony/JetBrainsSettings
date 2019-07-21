@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Custom serializer for Page object" />
+      <item value="Exception handler of controller." />
+      <item value="ontroller advice for comment result" />
       <item value="Whether the browser should send credentials, such as cookies along with * cross domain requests, to the annotated endpoint. The configured value is * set on the {@code Access-Control-Allow-Credentials} response header of * preflight requests. * &lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Be aware that this option establishes a high * level of trust with the configured domains and also increases the surface * attack of the web application by exposing sensitive user-specific * information such as cookies and CSRF tokens. * &lt;p&gt;By default this is not set in which case the * {@code Access-Control-Allow-Credentials} header is also not set and * credentials are therefore not allowed." />
       <item value="Be aware that this option establishes a high * level of trust with the configured domains and also increases the surface * attack of the web application by exposing sensitive user-specific * information such as cookies and CSRF tokens. * &lt;p&gt;By default this is not set in which case the * {@code Access-Control-Allow-Credentials} header is also not set and * credentials are therefore not allowed." />
       <item value="Whether the browser should send credentials, such as cookies along with * cross domain requests, to the annotated endpoint. The configured value is * set on the {@code Access-Control-Allow-Credentials} response header of * preflight requests." />
@@ -48,14 +51,11 @@
       <item value="If you need more workspace, you can hide the tool windows bars: click in the lower left corner. If necessary, you can show the tool window buttons just for a moment. To do that, press the key Alt (for Windows/*nix) or Command (for Mac) twice and keep it down. While the key is pressed, the tool window buttons are visible." />
       <item value="If you need more workspace, you can hide the tool windows bars: click in the lower left corner.&#10;If necessary, you can show the tool window buttons just for a moment. To do that, press the key Alt (for Windows/*nix) or Command (for Mac) twice and keep it down. While the key is pressed, the tool window buttons are visible." />
       <item value="To compare two directories, select one or both of them in the Project view and press Ctrl+D." />
-      <item value="Version control annotations show the latest changes of each line in one click.&#10;Just right-click an annotation and use the Show Diff command in the context menu." />
-      <item value="To open any class or file in the editor at the desired line, press Ctrl+Shift+N (Navigate | File), start typing the name, and choose the one from the suggestion list. Then type the colon (:) and a line number.&#10;The selected file will open with the caret at the specified line." />
-      <item value="Checks if a CharSequence is empty (&quot;&quot;) or null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
