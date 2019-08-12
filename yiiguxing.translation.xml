@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Using the Ctrl+A shortcut for Vim emulation. You can redefine it as an IDE shortcut or configure its handler in Vim Emulation settings." />
-      <item value="To open any particular method or field in the editor quickly" />
-      <item value="You can use the Extract Variable refactoring even on incomplete statements. Just press Ctrl+Alt+V, and choose the desired expression" />
-      <item value="When you invoke the Move refactoring (F6) on a nested class that is declared static, you are provided with an option to either make it a top-level class, or move it to another class." />
-      <item value="To quickly evaluate the value of any expression while debugging the program, hold Alt (Control+Alt+Shift on Linux) and click this expression to see its value and calculate it, call a method, etc." />
-      <item value="child process terminated due to receipt of signal" />
-      <item value="Dock" />
-      <item value="Trajectories" />
-      <item value="Docking" />
-      <item value="instance" />
-      <item value="constructor" />
-      <item value="aggregator" />
-      <item value="diagnostic" />
-      <item value=" scan" />
-      <item value="advertise" />
-      <item value="emit" />
-      <item value="feedback" />
-      <item value="setup a listener for the robot pose" />
-      <item value="modifiers" />
-      <item value="Container" />
-      <item value="Shape" />
-      <item value="create an empty shape to start with, so that the order remains correct" />
-      <item value="current grid that is displayed" />
-      <item value="A Viewer can be used to render an interactive 2D scene to a HTML5 canvas" />
-      <item value="create the canvas to render to" />
-      <item value="to" />
-      <item value="create the easel to use" />
-      <item value="easel" />
-      <item value="change Y axis center" />
-      <item value="scene" />
-      <item value="case of continuous" />
-      <item value="position" />
-      <item value="Shift the main view of the canvas by the given amount. This is based on the * ROS coordinate system. That is, Y is opposite that of a traditional canvas." />
-      <item value="Scale the scene to fit the given width and height into the current canvas" />
-      <item value="navigator" />
-      <item value="scale the viewer to fit the map" />
-      <item value="coords" />
-      <item value="pulse" />
-      <item value="fals" />
-      <item value="remove obsolete orientation marker" />
-      <item value="get position when mouse button is pressed down" />
-      <item value="Base speed control using the keyboard or mouse" />
-      <item value="Shift the main view of the canvas by the given amount. This is based on the * ROS coordinate system. That is, Y is opposite that of a traditional canvas" />
-      <item value="create a marker for the goal" />
-      <item value="set pose with orientation" />
-      <item value="calulate direction between stored &lt;position&gt; and goal position" />
-      <item value="get current mouse position (goalPos)" />
-      <item value="if mouse button is released" />
-      <item value="place orientation marker" />
-      <item value="calulate direction between stored &lt;position&gt; and current position" />
+      <item value="Attachment entity" />
+      <item value="Converter interface for input DTO" />
+      <item value="You have to login before accessing admin api" />
+      <item value="Exception caused by bad request." />
+      <item value="If the password is mismatch" />
+      <item value="Authenticates" />
+      <item value="Check if the current is logging in" />
+      <item value="Clears authentication" />
+      <item value="Category" />
+      <item value="Custom serializer for Page object" />
+      <item value="Exception handler of controller." />
+      <item value="ontroller advice for comment result" />
+      <item value="Whether the browser should send credentials, such as cookies along with * cross domain requests, to the annotated endpoint. The configured value is * set on the {@code Access-Control-Allow-Credentials} response header of * preflight requests. * &lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Be aware that this option establishes a high * level of trust with the configured domains and also increases the surface * attack of the web application by exposing sensitive user-specific * information such as cookies and CSRF tokens. * &lt;p&gt;By default this is not set in which case the * {@code Access-Control-Allow-Credentials} header is also not set and * credentials are therefore not allowed." />
+      <item value="Be aware that this option establishes a high * level of trust with the configured domains and also increases the surface * attack of the web application by exposing sensitive user-specific * information such as cookies and CSRF tokens. * &lt;p&gt;By default this is not set in which case the * {@code Access-Control-Allow-Credentials} header is also not set and * credentials are therefore not allowed." />
+      <item value="Whether the browser should send credentials, such as cookies along with * cross domain requests, to the annotated endpoint. The configured value is * set on the {@code Access-Control-Allow-Credentials} response header of * preflight requests." />
+      <item value="as of Spring 5.0, in favor of" />
+      <item value="Required String parameter 'subject' is not present" />
+      <item value="Returns true if and only if this string contains the specified * sequence of char values" />
+      <item value="Returns a sequential ordered {@code IntStream} from {@code startInclusive} * (inclusive) to {@code endInclusive} (inclusive) by an incremental step of * {@code 1}." />
+      <item value="No property create found for type News" />
+      <item value="No fragment found for method" />
+      <item value="fragment" />
+      <item value="No converter found capable of converting from" />
+      <item value="Converter Not Found" />
+      <item value="nested exception" />
+      <item value="No converter found capable of converting from type" />
+      <item value="extract" />
+      <item value="query did not return a unique result" />
+      <item value="Validation failed for query for method public abstract" />
+      <item value="Creates a new {@link PageRequest} with sort direction and properties applied." />
+      <item value="properties" />
+      <item value="Illegal" />
+      <item value="nested" />
+      <item value="This inspection performs unresolved SQL references check." />
+      <item value="Latest compiled and minified" />
+      <item value="during" />
+      <item value="parsing" />
+      <item value="during template parsing" />
+      <item value="Saves a given entity. Use the returned instance for further operations as the save operation might have changed the * entity instance completely." />
+      <item value="Direction" />
+      <item value="digest" />
+      <item value="Thumbnail" />
+      <item value="缩略图" />
+      <item value="litimg" />
+      <item value="thumb" />
+      <item value="content" />
+      <item value="Tune the IntelliJ IDEA tool windows layout to make better use of your screen.&#10;Toggle between the vertical and side-by-side placement of the tool windows by Ctrl+Click/Cmd+Click on the splitter" />
+      <item value="You can drag an external file from the Explorer or Finder, and drop it onto the Favorites tool window." />
+      <item value="The field upfile exceeds its maximum permitted size of 1048576 bytes" />
+      <item value="The last occurrence of the empty string &quot;&quot; * is considered to occur at the index value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
