@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Note that this method propagates any exception thrown by the * nullary constructor" />
+      <item value="The class is initialized if it * has not already been initialized." />
+      <item value="The class is instantiated as if by a {@code new} * expression with an empty argument list" />
+      <item value="Creates a new instance of the class represented by this {@code Class} * object." />
       <item value="Returns the index within this string of the first occurrence of the * specified substring." />
       <item value="Attachment entity" />
       <item value="Converter interface for input DTO" />
@@ -47,15 +51,11 @@
       <item value="缩略图" />
       <item value="litimg" />
       <item value="thumb" />
-      <item value="content" />
-      <item value="Tune the IntelliJ IDEA tool windows layout to make better use of your screen.&#10;Toggle between the vertical and side-by-side placement of the tool windows by Ctrl+Click/Cmd+Click on the splitter" />
-      <item value="You can drag an external file from the Explorer or Finder, and drop it onto the Favorites tool window." />
-      <item value="The field upfile exceeds its maximum permitted size of 1048576 bytes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
