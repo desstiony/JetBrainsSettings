@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constructor lookup" />
+      <item value="he following code may not be strictly correct under // the current Java memory model." />
       <item value="Note that this method propagates any exception thrown by the * nullary constructor" />
       <item value="The class is initialized if it * has not already been initialized." />
       <item value="The class is instantiated as if by a {@code new} * expression with an empty argument list" />
@@ -49,13 +51,11 @@
       <item value="digest" />
       <item value="Thumbnail" />
       <item value="缩略图" />
-      <item value="litimg" />
-      <item value="thumb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
