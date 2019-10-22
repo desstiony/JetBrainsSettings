@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets actual generic type." />
+      <item value="Abstract service implementation" />
+      <item value="Use {@code @NonNullApi} (scope = parameters + return values) and/or {@code @NonNullFields} * (scope = fields) to set the default behavior to non-nullable in order to avoid annotating * your whole codebase with {@code @NonNull}." />
+      <item value="Should be used at parameter, return value, and field level. Method overrides should * repeat parent {@code @NonNull} annotations unless they behave differently." />
+      <item value="A common Spring annotation to declare that annotated elements cannot be {@code null}. * Leverages JSR 305 meta-annotations to indicate nullability in Java to common tools with * JSR 305 support and used by Kotlin to infer nullability of Spring API." />
+      <item value="cause" />
       <item value="Gets random uuid without dash" />
       <item value="desensitize" />
       <item value="Expired" />
@@ -45,17 +51,11 @@
       <item value="Returns a sequential ordered {@code IntStream} from {@code startInclusive} * (inclusive) to {@code endInclusive} (inclusive) by an incremental step of * {@code 1}." />
       <item value="No property create found for type News" />
       <item value="No fragment found for method" />
-      <item value="fragment" />
-      <item value="No converter found capable of converting from" />
-      <item value="Converter Not Found" />
-      <item value="nested exception" />
-      <item value="No converter found capable of converting from type" />
-      <item value="extract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
