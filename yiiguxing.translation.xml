@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets actual generic type" />
       <item value="Gets actual generic type." />
       <item value="Abstract service implementation" />
       <item value="Use {@code @NonNullApi} (scope = parameters + return values) and/or {@code @NonNullFields} * (scope = fields) to set the default behavior to non-nullable in order to avoid annotating * your whole codebase with {@code @NonNull}." />
@@ -50,12 +51,11 @@
       <item value="Returns true if and only if this string contains the specified * sequence of char values" />
       <item value="Returns a sequential ordered {@code IntStream} from {@code startInclusive} * (inclusive) to {@code endInclusive} (inclusive) by an incremental step of * {@code 1}." />
       <item value="No property create found for type News" />
-      <item value="No fragment found for method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
