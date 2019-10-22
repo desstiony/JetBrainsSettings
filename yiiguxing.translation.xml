@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets random uuid without dash" />
+      <item value="desensitize" />
+      <item value="Expired" />
+      <item value="authenticate" />
       <item value="mismatch Tip" />
       <item value="expire Time" />
       <item value="avatar" />
@@ -47,15 +51,11 @@
       <item value="nested exception" />
       <item value="No converter found capable of converting from type" />
       <item value="extract" />
-      <item value="query did not return a unique result" />
-      <item value="Validation failed for query for method public abstract" />
-      <item value="Creates a new {@link PageRequest} with sort direction and properties applied." />
-      <item value="properties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
