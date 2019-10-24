@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'adminService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminServiceImpl' defined in file [/home/gh/code/idea_wp/allskyPro/target/classes/com/yunnengtian/allsky/service/impl/AdminServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userServiceImpl' defined in file [/home/gh/code/idea_wp/allskyPro/target/classes/com/yunnengtian/allsky/service/impl/UserServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.yunnengtian.allsky.service.base.BaseRepository&lt;com.yunnengtian.allsky.model.domain.User, java.lang.Long&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
+      <item value="Unsatisfied dependency expressed through constructor parameter 0" />
+      <item value="Unsatisfied dependency expressed through field 'adminService'" />
+      <item value="Exception encountered during context initialization" />
+      <item value="To display the conditions report re-run your application with 'debug' enabled" />
       <item value="Check if the current context has authenticated or not." />
       <item value="Changes the currently authenticated principal, or removes the authentication information." />
       <item value="Gets the currently authenticated principal." />
@@ -46,16 +51,11 @@
       <item value="The class is initialized if it * has not already been initialized." />
       <item value="The class is instantiated as if by a {@code new} * expression with an empty argument list" />
       <item value="Creates a new instance of the class represented by this {@code Class} * object." />
-      <item value="Returns the index within this string of the first occurrence of the * specified substring." />
-      <item value="Attachment entity" />
-      <item value="Converter interface for input DTO" />
-      <item value="You have to login before accessing admin api" />
-      <item value="Exception caused by bad request." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
