@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Filter Registration Bean" />
       <item value="Consider defining a bean of type" />
       <item value="'delete(K)' in 'com.yunnengtian.allsky.cache.CacheStore' clashes with 'delete(Object)' in 'com.yunnengtian.allsky.cache.AbstractCacheStore'; both methods have same erasure, yet neither overrides the other" />
       <item value="No beans of 'StringCacheStore' type found." />
@@ -50,12 +51,11 @@
       <item value="Fetch" />
       <item value="Gets actual generic type" />
       <item value="Gets actual generic type." />
-      <item value="Abstract service implementation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
