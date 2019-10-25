@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Holder" />
       <item value="Error resolving template [api/admin/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [api/admin/login], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause" />
       <item value="Filter Registration Bean" />
@@ -50,12 +51,11 @@
       <item value="environments" />
       <item value="Authenticates" />
       <item value="If the specified id does not exist" />
-      <item value="Fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
