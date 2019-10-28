@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To ensure compatibility, wrapping your layout in LayoutWrappingEncoder." />
+      <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
+      <item value="Expire" />
+      <item value="Forbidden Exception" />
       <item value="Holder" />
       <item value="Error resolving template [api/admin/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [api/admin/login], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause" />
@@ -44,18 +48,14 @@
       <item value="mismatch" />
       <item value="Plain text must not be blank" />
       <item value="FORBIDDEN" />
-      <item value="Forbidden Exception" />
       <item value="must Not Expire" />
       <item value="Get some statistics about the count of posts, the count of comments, etc" />
       <item value="count" />
-      <item value="environments" />
-      <item value="Authenticates" />
-      <item value="If the specified id does not exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="281" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
