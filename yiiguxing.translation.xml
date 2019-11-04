@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Access" />
+      <item value="the Authentication or null if authentication information is unavailable" />
+      <item value="Gets the currently authenticated principal" />
+      <item value="Authenticat" />
       <item value="To ensure compatibility, wrapping your layout in LayoutWrappingEncoder." />
       <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
       <item value="Expire" />
@@ -47,15 +51,11 @@
       <item value="Tip" />
       <item value="mismatch" />
       <item value="Plain text must not be blank" />
-      <item value="FORBIDDEN" />
-      <item value="must Not Expire" />
-      <item value="Get some statistics about the count of posts, the count of comments, etc" />
-      <item value="count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
