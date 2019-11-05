@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
+      <item value="a list of security schemes" />
+      <item value="The configuration of which operations have associated SecuritySchemes is configured with" />
+      <item value="Configures the global com.wordnik.swagger.model.SecurityScheme's applicable to all or some of the api * operations." />
+      <item value="A builder which is intended to be the primary interface into the swagger-springmvc framework. * Provides sensible defaults and convenience methods for configuration." />
+      <item value="Authentication" />
+      <item value="Production" />
+      <item value="Doc api disabled" />
+      <item value="disabled" />
+      <item value="global" />
+      <item value="content" />
+      <item value="Api authentication Filter" />
       <item value="Access" />
       <item value="the Authentication or null if authentication information is unavailable" />
       <item value="Gets the currently authenticated principal" />
@@ -39,23 +51,11 @@
       <item value="Cache those tokens with user id" />
       <item value="Cache those tokens, just for clearing" />
       <item value="Cannot resolve symbol 'NotFoundException'" />
-      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'adminService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminServiceImpl' defined in file [/home/gh/code/idea_wp/allskyPro/target/classes/com/yunnengtian/allsky/service/impl/AdminServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userServiceImpl' defined in file [/home/gh/code/idea_wp/allskyPro/target/classes/com/yunnengtian/allsky/service/impl/UserServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.yunnengtian.allsky.service.base.BaseRepository&lt;com.yunnengtian.allsky.model.domain.User, java.lang.Long&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
-      <item value="Unsatisfied dependency expressed through field 'adminService'" />
-      <item value="Exception encountered during context initialization" />
-      <item value="To display the conditions report re-run your application with 'debug' enabled" />
-      <item value="Check if the current context has authenticated or not." />
-      <item value="Changes the currently authenticated principal, or removes the authentication information." />
-      <item value="Gets the currently authenticated principal." />
-      <item value="Pluralize the times label format" />
-      <item value="mismatch Tip" />
-      <item value="Tip" />
-      <item value="mismatch" />
-      <item value="Plain text must not be blank" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="297" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
