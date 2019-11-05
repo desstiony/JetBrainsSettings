@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="original" />
       <item value="Delimiter" />
       <item value="Cache lock annotation" />
       <item value="Custom serializer for Page object" />
@@ -50,18 +51,22 @@
       <item value="Filter Registration Bean" />
       <item value="Consider defining a bean of type" />
       <item value="'delete(K)' in 'com.yunnengtian.allsky.cache.CacheStore' clashes with 'delete(Object)' in 'com.yunnengtian.allsky.cache.AbstractCacheStore'; both methods have same erasure, yet neither overrides the other" />
-      <item value="No beans of 'StringCacheStore' type found." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="^ +\*|(&lt;\/?a.*?&gt;)|[&lt;][\w/]+[&gt;]|(\/\*\*|\*\/)|(?&lt;=(\n|\t)) +\*+|\/$" />
   </component>
 </application>
