@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the value if present, otherwise invoke {@code other} and return the result of that invocation." />
+      <item value="If the specified id does not exist" />
+      <item value="Fetch" />
       <item value="avatar" />
       <item value="Returns the number of entities available." />
       <item value="Reflection" />
@@ -48,14 +51,11 @@
       <item value="Access" />
       <item value="the Authentication or null if authentication information is unavailable" />
       <item value="Gets the currently authenticated principal" />
-      <item value="Authenticat" />
-      <item value="To ensure compatibility, wrapping your layout in LayoutWrappingEncoder." />
-      <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="330" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
