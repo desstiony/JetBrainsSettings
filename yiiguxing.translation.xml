@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RELATIVE" />
       <item value="Return the value if present, otherwise invoke {@code other} and return the result of that invocation." />
       <item value="If the specified id does not exist" />
       <item value="Fetch" />
@@ -50,12 +51,11 @@
       <item value="Api authentication Filter" />
       <item value="Access" />
       <item value="the Authentication or null if authentication information is unavailable" />
-      <item value="Gets the currently authenticated principal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
