@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Marks a property, method parameter or method return type for validation cascading." />
       <item value="Validates bean by hand." />
       <item value="Response development message" />
       <item value="RELATIVE" />
@@ -50,12 +51,11 @@
       <item value="disabled" />
       <item value="global" />
       <item value="content" />
-      <item value="Api authentication Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
