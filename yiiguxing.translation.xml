@@ -1,66 +1,72 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Request processing failed;" />
-      <item value="INFO" />
-      <item value="FAIL ON EMPTY BEANS" />
-      <item value="through reference chain" />
-      <item value="No constructor found" />
-      <item value="touchstart touchmove touchend" />
-      <item value="joy" />
-      <item value="Constructor lookup" />
-      <item value="he following code may not be strictly correct under // the current Java memory model." />
-      <item value="Note that this method propagates any exception thrown by the * nullary constructor" />
-      <item value="The class is initialized if it * has not already been initialized." />
-      <item value="The class is instantiated as if by a {@code new} * expression with an empty argument list" />
-      <item value="Creates a new instance of the class represented by this {@code Class} * object." />
-      <item value="Returns the index within this string of the first occurrence of the * specified substring." />
-      <item value="Attachment entity" />
+      <item value="Marks a property, method parameter or method return type for validation cascading." />
+      <item value="Validates bean by hand." />
+      <item value="Response development message" />
+      <item value="RELATIVE" />
+      <item value="Return the value if present, otherwise invoke {@code other} and return the result of that invocation." />
+      <item value="If the specified id does not exist" />
+      <item value="Fetch" />
+      <item value="avatar" />
+      <item value="Returns the number of entities available." />
+      <item value="Reflection" />
+      <item value="set Default Avatar" />
       <item value="Converter interface for input DTO" />
-      <item value="You have to login before accessing admin api" />
-      <item value="Exception caused by bad request." />
-      <item value="If the password is mismatch" />
-      <item value="Authenticates" />
-      <item value="Check if the current is logging in" />
-      <item value="Clears authentication" />
-      <item value="Category" />
+      <item value="The annotated element must not be {@code null} and must contain at least one non-whitespace character. Accepts {@code CharSequence}." />
+      <item value="Create check for hibernate validation" />
+      <item value="List latest logs" />
+      <item value="original" />
+      <item value="Delimiter" />
+      <item value="Cache lock annotation" />
       <item value="Custom serializer for Page object" />
-      <item value="Exception handler of controller." />
-      <item value="ontroller advice for comment result" />
-      <item value="Whether the browser should send credentials, such as cookies along with * cross domain requests, to the annotated endpoint. The configured value is * set on the {@code Access-Control-Allow-Credentials} response header of * preflight requests. * &lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Be aware that this option establishes a high * level of trust with the configured domains and also increases the surface * attack of the web application by exposing sensitive user-specific * information such as cookies and CSRF tokens. * &lt;p&gt;By default this is not set in which case the * {@code Access-Control-Allow-Credentials} header is also not set and * credentials are therefore not allowed." />
-      <item value="Be aware that this option establishes a high * level of trust with the configured domains and also increases the surface * attack of the web application by exposing sensitive user-specific * information such as cookies and CSRF tokens. * &lt;p&gt;By default this is not set in which case the * {@code Access-Control-Allow-Credentials} header is also not set and * credentials are therefore not allowed." />
-      <item value="Whether the browser should send credentials, such as cookies along with * cross domain requests, to the annotated endpoint. The configured value is * set on the {@code Access-Control-Allow-Credentials} response header of * preflight requests." />
-      <item value="as of Spring 5.0, in favor of" />
-      <item value="Required String parameter 'subject' is not present" />
-      <item value="Returns true if and only if this string contains the specified * sequence of char values" />
-      <item value="Returns a sequential ordered {@code IntStream} from {@code startInclusive} * (inclusive) to {@code endInclusive} (inclusive) by an incremental step of * {@code 1}." />
-      <item value="No property create found for type News" />
-      <item value="No fragment found for method" />
-      <item value="fragment" />
-      <item value="No converter found capable of converting from" />
-      <item value="Converter Not Found" />
-      <item value="nested exception" />
-      <item value="No converter found capable of converting from type" />
-      <item value="extract" />
-      <item value="query did not return a unique result" />
-      <item value="Validation failed for query for method public abstract" />
-      <item value="Creates a new {@link PageRequest} with sort direction and properties applied." />
-      <item value="properties" />
-      <item value="Illegal" />
-      <item value="nested" />
-      <item value="This inspection performs unresolved SQL references check." />
-      <item value="Latest compiled and minified" />
-      <item value="during" />
+      <item value="Controller advice for comment result." />
+      <item value="advice" />
+      <item value="do Filter Internal" />
+      <item value="parameter" />
+      <item value="filter Chain" />
+      <item value="do Authenticate" />
+      <item value="is Present" />
+      <item value="Present" />
+      <item value="UNAUTHORIZED" />
+      <item value="Media Type" />
+      <item value="development" />
+      <item value="Sets custom object mapper" />
+      <item value="Gets exclude url patterns" />
+      <item value="should Not Filter" />
+      <item value="exclude Url Patterns" />
+      <item value="Authenticate" />
+      <item value="Calls when a user has been unsuccessfully authenticated" />
+      <item value="Authentication failure handler" />
+      <item value="Option" />
+      <item value="Filter base class that aims to guarantee a single execution per request * dispatch, on any servlet container. It provides a {@link #doFilterInternal} * method with HttpServletRequest and HttpServletResponse arguments" />
+      <item value="Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
+      <item value="a list of security schemes" />
+      <item value="The configuration of which operations have associated SecuritySchemes is configured with" />
+      <item value="Configures the global com.wordnik.swagger.model.SecurityScheme's applicable to all or some of the api * operations." />
+      <item value="A builder which is intended to be the primary interface into the swagger-springmvc framework. * Provides sensible defaults and convenience methods for configuration." />
+      <item value="Authentication" />
+      <item value="Production" />
+      <item value="Doc api disabled" />
+      <item value="disabled" />
+      <item value="global" />
+      <item value="content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="^ +\*|(&lt;\/?a.*?&gt;)|[&lt;][\w/]+[&gt;]|(\/\*\*|\*\/)|(?&lt;=(\n|\t)) +\*+|\/$" />
   </component>
 </application>
