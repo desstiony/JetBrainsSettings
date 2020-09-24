@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abstract" />
       <item value="Duplicate entry '2001' for key 'PRIMARY'" />
       <item value="EXIST" />
       <item value="Marks a property, method parameter or method return type for validation cascading." />
@@ -50,7 +51,6 @@
       <item value="Authentication" />
       <item value="Production" />
       <item value="Doc api disabled" />
-      <item value="disabled" />
     </histories>
     <option name="languageScores">
       <map>
