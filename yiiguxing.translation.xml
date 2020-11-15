@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This method does NOT ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method." />
+      <item value="Provider" />
+      <item value="Authentication" />
+      <item value="Add authentication based upon the custom {@link AuthenticationProvider} that is passed in. Since the {@link AuthenticationProvider} implementation is unknown, all customizations must be done externally and the {@link AuthenticationManagerBuilder} is returned immediately" />
+      <item value="Add LDAP authentication to the {@link AuthenticationManagerBuilder} and return a {@link LdapAuthenticationProviderConfigurer} to allow customization of the LDAP authentication" />
+      <item value="Add authentication based upon the custom {@link AuthenticationProvider} that is passed in" />
+      <item value="Note that additional {@link UserDetailsService}'s may override this {@link UserDetailsService} as the default." />
+      <item value="This method also ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method" />
+      <item value="It then returns a {@link DaoAuthenticationConfigurer} to allow customization of the authentication" />
+      <item value="Add authentication based upon the custom {@link UserDetailsService} that is passed in" />
       <item value="This method also ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method. Note that additional {@link UserDetailsService}'s may override this {@link UserDetailsService} as the default." />
       <item value="Add authentication based upon the custom {@link UserDetailsService} that is passed in. It then returns a {@link DaoAuthenticationConfigurer} to allow customization of the authentication." />
       <item value="Allows adding {@link RequestMatcher} instances that Spring Security should ignore. Web Security provided by Spring Security (including the {@link SecurityContext}) will not be available on {@link HttpServletRequest} that match. Typically the requests that are registered should be that of only static resources. For requests that are dynamic, consider mapping the request to allow all users instead." />
@@ -41,21 +51,11 @@
       <item value="UNAUTHORIZED" />
       <item value="Media Type" />
       <item value="development" />
-      <item value="Sets custom object mapper" />
-      <item value="Gets exclude url patterns" />
-      <item value="should Not Filter" />
-      <item value="exclude Url Patterns" />
-      <item value="Authenticate" />
-      <item value="Calls when a user has been unsuccessfully authenticated" />
-      <item value="Authentication failure handler" />
-      <item value="Option" />
-      <item value="Filter base class that aims to guarantee a single execution per request * dispatch, on any servlet container. It provides a {@link #doFilterInternal} * method with HttpServletRequest and HttpServletResponse arguments" />
-      <item value="Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
