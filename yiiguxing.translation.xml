@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This method also ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method. Note that additional {@link UserDetailsService}'s may override this {@link UserDetailsService} as the default." />
+      <item value="Add authentication based upon the custom {@link UserDetailsService} that is passed in. It then returns a {@link DaoAuthenticationConfigurer} to allow customization of the authentication." />
       <item value="Allows adding {@link RequestMatcher} instances that Spring Security should ignore. Web Security provided by Spring Security (including the {@link SecurityContext}) will not be available on {@link HttpServletRequest} that match. Typically the requests that are registered should be that of only static resources. For requests that are dynamic, consider mapping the request to allow all users instead." />
       <item value="Assert not equal" />
       <item value="A parameterized type is created the first time it is needed by a reflective method, as specified in this package. When a parameterized type p is created, the generic type declaration that p instantiates is resolved, and all type arguments of p are created recursively" />
@@ -49,13 +51,11 @@
       <item value="Option" />
       <item value="Filter base class that aims to guarantee a single execution per request * dispatch, on any servlet container. It provides a {@link #doFilterInternal} * method with HttpServletRequest and HttpServletResponse arguments" />
       <item value="Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
-      <item value="a list of security schemes" />
-      <item value="The configuration of which operations have associated SecuritySchemes is configured with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
