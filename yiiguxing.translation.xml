@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shallow" />
+      <item value="Batch" />
+      <item value="Transforms from the source object." />
+      <item value="instance with specified type copying from source data; or null if source data is null" />
+      <item value="Transforms from the source object. (copy same properties only)" />
+      <item value="Copy the property values of the given source bean into the given target bean, ignoring the given &quot;ignoreProperties&quot;." />
+      <item value="The source and target classes do not have to match or even be derived from each other" />
+      <item value="Copy the property values of the given source bean into the given target bean" />
       <item value="This method does NOT ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method." />
       <item value="Provider" />
       <item value="Authentication" />
@@ -43,19 +51,11 @@
       <item value="Controller advice for comment result." />
       <item value="advice" />
       <item value="do Filter Internal" />
-      <item value="parameter" />
-      <item value="filter Chain" />
-      <item value="do Authenticate" />
-      <item value="is Present" />
-      <item value="Present" />
-      <item value="UNAUTHORIZED" />
-      <item value="Media Type" />
-      <item value="development" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="360" />
+        <entry key="ENGLISH" value="361" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
