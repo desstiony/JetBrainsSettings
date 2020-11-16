@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if there is a value present" />
+      <item value="HTTP BAD REQUEST" />
+      <item value="HTTP UNSUPPORTED TYPE" />
+      <item value="HTTP REQ TOO LONG" />
+      <item value="HTTP ENTITY TOO LARGE" />
+      <item value="HTTP PRECON FAILED" />
+      <item value="HTTP CONFLICT" />
+      <item value="HTTP CLIENT TIMEOUT" />
+      <item value="HTTP NOT ACCEPTABLE" />
+      <item value="HTTP BAD METHOD" />
+      <item value="HTTP PAYMENT REQUIRED" />
+      <item value="HTTP FORBIDDEN" />
+      <item value="HTTP LENGTH REQUIRED" />
+      <item value="GONE" />
       <item value="shallow" />
       <item value="Batch" />
       <item value="Transforms from the source object." />
@@ -37,25 +51,11 @@
       <item value="If the specified id does not exist" />
       <item value="Fetch" />
       <item value="avatar" />
-      <item value="Returns the number of entities available." />
-      <item value="Reflection" />
-      <item value="set Default Avatar" />
-      <item value="Converter interface for input DTO" />
-      <item value="The annotated element must not be {@code null} and must contain at least one non-whitespace character. Accepts {@code CharSequence}." />
-      <item value="Create check for hibernate validation" />
-      <item value="List latest logs" />
-      <item value="original" />
-      <item value="Delimiter" />
-      <item value="Cache lock annotation" />
-      <item value="Custom serializer for Page object" />
-      <item value="Controller advice for comment result." />
-      <item value="advice" />
-      <item value="do Filter Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
