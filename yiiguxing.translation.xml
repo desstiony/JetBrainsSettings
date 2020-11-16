@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Credentials" />
+      <item value="Authentication" />
+      <item value="Constructs an AuthenticationCredentialsNotFoundException with the specified message." />
+      <item value="Authentication Credentials Not Found Exception" />
       <item value="if there is a value present" />
       <item value="HTTP BAD REQUEST" />
       <item value="HTTP UNSUPPORTED TYPE" />
@@ -25,7 +29,6 @@
       <item value="Copy the property values of the given source bean into the given target bean" />
       <item value="This method does NOT ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method." />
       <item value="Provider" />
-      <item value="Authentication" />
       <item value="Add authentication based upon the custom {@link AuthenticationProvider} that is passed in. Since the {@link AuthenticationProvider} implementation is unknown, all customizations must be done externally and the {@link AuthenticationManagerBuilder} is returned immediately" />
       <item value="Add LDAP authentication to the {@link AuthenticationManagerBuilder} and return a {@link LdapAuthenticationProviderConfigurer} to allow customization of the LDAP authentication" />
       <item value="Add authentication based upon the custom {@link AuthenticationProvider} that is passed in" />
@@ -48,14 +51,11 @@
       <item value="Response development message" />
       <item value="RELATIVE" />
       <item value="Return the value if present, otherwise invoke {@code other} and return the result of that invocation." />
-      <item value="If the specified id does not exist" />
-      <item value="Fetch" />
-      <item value="avatar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="ROMANIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
