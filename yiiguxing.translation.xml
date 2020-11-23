@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Defines that data can be lazily fetched" />
       <item value="the length of time to sleep in milliseconds" />
       <item value="millis" />
       <item value="Causes the current thread to wait until another thread invokes the {@link java.lang.Object#notify()} method or the {@link java.lang.Object#notifyAll()} method for this object. In other words, this method behaves exactly as if it simply performs the call {@code wait(0)}." />
@@ -50,12 +51,11 @@
       <item value="Duplicate entry '2001' for key 'PRIMARY'" />
       <item value="EXIST" />
       <item value="Marks a property, method parameter or method return type for validation cascading." />
-      <item value="Validates bean by hand." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="ROMANIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
