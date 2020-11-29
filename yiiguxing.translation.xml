@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thrown if an authentication request is rejected because the account has expired. Makes no assertion as to whether or not the credentials were valid." />
+      <item value="This might be thrown if a backend authentication repository is unavailable, for example." />
+      <item value="Thrown if an authentication request could not be processed due to a system problem" />
+      <item value="Constructs an AuthenticationServiceException with the specified" />
+      <item value="Entry" />
       <item value="Allocates a Date object and initializes it to represent the specified number of milliseconds since the standard base time known as &quot;the epoch&quot;, namely January 1," />
       <item value="Filter 'customAuthFilter' configured for use" />
       <item value="cyan" />
@@ -46,16 +51,11 @@
       <item value="Add authentication based upon the custom {@link AuthenticationProvider} that is passed in" />
       <item value="Note that additional {@link UserDetailsService}'s may override this {@link UserDetailsService} as the default." />
       <item value="This method also ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method" />
-      <item value="It then returns a {@link DaoAuthenticationConfigurer} to allow customization of the authentication" />
-      <item value="Add authentication based upon the custom {@link UserDetailsService} that is passed in" />
-      <item value="This method also ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method. Note that additional {@link UserDetailsService}'s may override this {@link UserDetailsService} as the default." />
-      <item value="Add authentication based upon the custom {@link UserDetailsService} that is passed in. It then returns a {@link DaoAuthenticationConfigurer} to allow customization of the authentication." />
-      <item value="Allows adding {@link RequestMatcher} instances that Spring Security should ignore. Web Security provided by Spring Security (including the {@link SecurityContext}) will not be available on {@link HttpServletRequest} that match. Typically the requests that are registered should be that of only static resources. For requests that are dynamic, consider mapping the request to allow all users instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ROMANIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
