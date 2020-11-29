@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Filter 'customAuthFilter' configured for use" />
+      <item value="cyan" />
       <item value="equipment" />
       <item value="diabets" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2 limit 10' at line 1" />
@@ -49,13 +51,11 @@
       <item value="Add authentication based upon the custom {@link UserDetailsService} that is passed in. It then returns a {@link DaoAuthenticationConfigurer} to allow customization of the authentication." />
       <item value="Allows adding {@link RequestMatcher} instances that Spring Security should ignore. Web Security provided by Spring Security (including the {@link SecurityContext}) will not be available on {@link HttpServletRequest} that match. Typically the requests that are registered should be that of only static resources. For requests that are dynamic, consider mapping the request to allow all users instead." />
       <item value="Assert not equal" />
-      <item value="A parameterized type is created the first time it is needed by a reflective method, as specified in this package. When a parameterized type p is created, the generic type declaration that p instantiates is resolved, and all type arguments of p are created recursively" />
-      <item value="ParameterizedType represents a parameterized type such as Collection&amp;lt;String&amp;gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="ROMANIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
