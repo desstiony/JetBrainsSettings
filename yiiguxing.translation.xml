@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invokes a specific operation using a synchronous request-response interaction mode. The invoke method takes as parameters the object values corresponding to these defined parameter types. Implementation of the invoke method must check whether the passed parameter values correspond to the number, order and types of parameters specified in the corresponding operation specification." />
       <item value="Allows configuring exception handling. This is automatically applied when using" />
       <item value="Thrown if an authentication request is rejected because the account has expired. Makes no assertion as to whether or not the credentials were valid." />
       <item value="This might be thrown if a backend authentication repository is unavailable, for example." />
@@ -50,12 +51,11 @@
       <item value="Add authentication based upon the custom {@link AuthenticationProvider} that is passed in. Since the {@link AuthenticationProvider} implementation is unknown, all customizations must be done externally and the {@link AuthenticationManagerBuilder} is returned immediately" />
       <item value="Add LDAP authentication to the {@link AuthenticationManagerBuilder} and return a {@link LdapAuthenticationProviderConfigurer} to allow customization of the LDAP authentication" />
       <item value="Add authentication based upon the custom {@link AuthenticationProvider} that is passed in" />
-      <item value="Note that additional {@link UserDetailsService}'s may override this {@link UserDetailsService} as the default." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="397" />
-        <entry key="ENGLISH" value="398" />
+        <entry key="CHINESE" value="398" />
+        <entry key="ENGLISH" value="399" />
         <entry key="ROMANIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
