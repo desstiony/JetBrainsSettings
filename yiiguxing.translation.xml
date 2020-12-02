@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For Messaging (ie. non-RPC) the params argument should be an array of SOAPBodyElements. All of them need to be SOAPBodyElements, if any of them are not this method will default back to RPC. In the Messaging case the return value will be a vector of SOAPBodyElements." />
+      <item value="Invokes the operation associated with this Call object using the passed in parameters as the arguments to the method." />
+      <item value="Object Return value of the operation/method - or null" />
+      <item value="Array of parameters to invoke the Web Service with" />
       <item value="Invokes a specific operation using a synchronous request-response interaction mode. The invoke method takes as parameters the object values corresponding to these defined parameter types. Implementation of the invoke method must check whether the passed parameter values correspond to the number, order and types of parameters specified in the corresponding operation specification." />
       <item value="Allows configuring exception handling. This is automatically applied when using" />
       <item value="Thrown if an authentication request is rejected because the account has expired. Makes no assertion as to whether or not the credentials were valid." />
@@ -47,15 +51,11 @@
       <item value="The source and target classes do not have to match or even be derived from each other" />
       <item value="Copy the property values of the given source bean into the given target bean" />
       <item value="This method does NOT ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method." />
-      <item value="Provider" />
-      <item value="Add authentication based upon the custom {@link AuthenticationProvider} that is passed in. Since the {@link AuthenticationProvider} implementation is unknown, all customizations must be done externally and the {@link AuthenticationManagerBuilder} is returned immediately" />
-      <item value="Add LDAP authentication to the {@link AuthenticationManagerBuilder} and return a {@link LdapAuthenticationProviderConfigurer} to allow customization of the LDAP authentication" />
-      <item value="Add authentication based upon the custom {@link AuthenticationProvider} that is passed in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="ROMANIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
