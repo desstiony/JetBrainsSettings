@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gender" />
       <item value="For Messaging (ie. non-RPC) the params argument should be an array of SOAPBodyElements. All of them need to be SOAPBodyElements, if any of them are not this method will default back to RPC. In the Messaging case the return value will be a vector of SOAPBodyElements." />
       <item value="Invokes the operation associated with this Call object using the passed in parameters as the arguments to the method." />
       <item value="Object Return value of the operation/method - or null" />
@@ -50,35 +51,15 @@
       <item value="Copy the property values of the given source bean into the given target bean, ignoring the given &quot;ignoreProperties&quot;." />
       <item value="The source and target classes do not have to match or even be derived from each other" />
       <item value="Copy the property values of the given source bean into the given target bean" />
-      <item value="This method does NOT ensure that the {@link UserDetailsService} is available for the {@link #getDefaultUserDetailsService()} method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="405" />
         <entry key="ROMANIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
-    <option name="ignoreRegExp" value="^ +\*|(&lt;\/?a.*?&gt;)|[&lt;][\w/]+[&gt;]|(\/\*\*|\*\/)|(?&lt;=(\n|\t)) +\*+|\/$" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </youdao-translate>
     </option>
   </component>
 </application>
