@@ -1,66 +1,65 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Request processing failed;" />
-      <item value="INFO" />
-      <item value="FAIL ON EMPTY BEANS" />
-      <item value="through reference chain" />
-      <item value="No constructor found" />
-      <item value="touchstart touchmove touchend" />
-      <item value="joy" />
-      <item value="Constructor lookup" />
-      <item value="he following code may not be strictly correct under // the current Java memory model." />
-      <item value="Note that this method propagates any exception thrown by the * nullary constructor" />
-      <item value="The class is initialized if it * has not already been initialized." />
-      <item value="The class is instantiated as if by a {@code new} * expression with an empty argument list" />
-      <item value="Creates a new instance of the class represented by this {@code Class} * object." />
-      <item value="Returns the index within this string of the first occurrence of the * specified substring." />
-      <item value="Attachment entity" />
-      <item value="Converter interface for input DTO" />
-      <item value="You have to login before accessing admin api" />
-      <item value="Exception caused by bad request." />
-      <item value="If the password is mismatch" />
-      <item value="Authenticates" />
-      <item value="Check if the current is logging in" />
-      <item value="Clears authentication" />
-      <item value="Category" />
-      <item value="Custom serializer for Page object" />
-      <item value="Exception handler of controller." />
-      <item value="ontroller advice for comment result" />
-      <item value="Whether the browser should send credentials, such as cookies along with * cross domain requests, to the annotated endpoint. The configured value is * set on the {@code Access-Control-Allow-Credentials} response header of * preflight requests. * &lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Be aware that this option establishes a high * level of trust with the configured domains and also increases the surface * attack of the web application by exposing sensitive user-specific * information such as cookies and CSRF tokens. * &lt;p&gt;By default this is not set in which case the * {@code Access-Control-Allow-Credentials} header is also not set and * credentials are therefore not allowed." />
-      <item value="Be aware that this option establishes a high * level of trust with the configured domains and also increases the surface * attack of the web application by exposing sensitive user-specific * information such as cookies and CSRF tokens. * &lt;p&gt;By default this is not set in which case the * {@code Access-Control-Allow-Credentials} header is also not set and * credentials are therefore not allowed." />
-      <item value="Whether the browser should send credentials, such as cookies along with * cross domain requests, to the annotated endpoint. The configured value is * set on the {@code Access-Control-Allow-Credentials} response header of * preflight requests." />
-      <item value="as of Spring 5.0, in favor of" />
-      <item value="Required String parameter 'subject' is not present" />
-      <item value="Returns true if and only if this string contains the specified * sequence of char values" />
-      <item value="Returns a sequential ordered {@code IntStream} from {@code startInclusive} * (inclusive) to {@code endInclusive} (inclusive) by an incremental step of * {@code 1}." />
-      <item value="No property create found for type News" />
-      <item value="No fragment found for method" />
-      <item value="fragment" />
-      <item value="No converter found capable of converting from" />
-      <item value="Converter Not Found" />
-      <item value="nested exception" />
-      <item value="No converter found capable of converting from type" />
-      <item value="extract" />
-      <item value="query did not return a unique result" />
-      <item value="Validation failed for query for method public abstract" />
-      <item value="Creates a new {@link PageRequest} with sort direction and properties applied." />
-      <item value="properties" />
-      <item value="Illegal" />
-      <item value="nested" />
-      <item value="This inspection performs unresolved SQL references check." />
-      <item value="Latest compiled and minified" />
-      <item value="during" />
+      <item value="Gender" />
+      <item value="For Messaging (ie. non-RPC) the params argument should be an array of SOAPBodyElements. All of them need to be SOAPBodyElements, if any of them are not this method will default back to RPC. In the Messaging case the return value will be a vector of SOAPBodyElements." />
+      <item value="Invokes the operation associated with this Call object using the passed in parameters as the arguments to the method." />
+      <item value="Object Return value of the operation/method - or null" />
+      <item value="Array of parameters to invoke the Web Service with" />
+      <item value="Invokes a specific operation using a synchronous request-response interaction mode. The invoke method takes as parameters the object values corresponding to these defined parameter types. Implementation of the invoke method must check whether the passed parameter values correspond to the number, order and types of parameters specified in the corresponding operation specification." />
+      <item value="Allows configuring exception handling. This is automatically applied when using" />
+      <item value="Thrown if an authentication request is rejected because the account has expired. Makes no assertion as to whether or not the credentials were valid." />
+      <item value="This might be thrown if a backend authentication repository is unavailable, for example." />
+      <item value="Thrown if an authentication request could not be processed due to a system problem" />
+      <item value="Constructs an AuthenticationServiceException with the specified" />
+      <item value="Entry" />
+      <item value="Allocates a Date object and initializes it to represent the specified number of milliseconds since the standard base time known as &quot;the epoch&quot;, namely January 1," />
+      <item value="Filter 'customAuthFilter' configured for use" />
+      <item value="cyan" />
+      <item value="equipment" />
+      <item value="diabets" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2 limit 10' at line 1" />
+      <item value="Paging query needs to have a Pageable parameter" />
+      <item value="Creates a new {@link PageRequest}. Pages are zero indexed, thus providing 0 for {@code page} will return the first page." />
+      <item value="Defines that data can be lazily fetched" />
+      <item value="the length of time to sleep in milliseconds" />
+      <item value="millis" />
+      <item value="Causes the current thread to wait until another thread invokes the {@link java.lang.Object#notify()} method or the {@link java.lang.Object#notifyAll()} method for this object. In other words, this method behaves exactly as if it simply performs the call {@code wait(0)}." />
+      <item value="Credentials" />
+      <item value="Authentication" />
+      <item value="Constructs an AuthenticationCredentialsNotFoundException with the specified message." />
+      <item value="Authentication Credentials Not Found Exception" />
+      <item value="if there is a value present" />
+      <item value="HTTP BAD REQUEST" />
+      <item value="HTTP UNSUPPORTED TYPE" />
+      <item value="HTTP REQ TOO LONG" />
+      <item value="HTTP ENTITY TOO LARGE" />
+      <item value="HTTP PRECON FAILED" />
+      <item value="HTTP CONFLICT" />
+      <item value="HTTP CLIENT TIMEOUT" />
+      <item value="HTTP NOT ACCEPTABLE" />
+      <item value="HTTP BAD METHOD" />
+      <item value="HTTP PAYMENT REQUIRED" />
+      <item value="HTTP FORBIDDEN" />
+      <item value="HTTP LENGTH REQUIRED" />
+      <item value="GONE" />
+      <item value="shallow" />
+      <item value="Batch" />
+      <item value="Transforms from the source object." />
+      <item value="instance with specified type copying from source data; or null if source data is null" />
+      <item value="Transforms from the source object. (copy same properties only)" />
+      <item value="Copy the property values of the given source bean into the given target bean, ignoring the given &quot;ignoreProperties&quot;." />
+      <item value="The source and target classes do not have to match or even be derived from each other" />
+      <item value="Copy the property values of the given source bean into the given target bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="405" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
